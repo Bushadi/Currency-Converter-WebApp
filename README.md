@@ -1,12 +1,12 @@
-# 💱 Currency Converter App
+# Currency Converter App
 
 A full-stack currency converter application built with **React.js** on the frontend and **Node.js** with **Express.js** on the backend. It allows users to convert between international currencies using real-time and historical exchange rates from the **Open Exchange Rates API**.
 
 ---
 
-## 🖼️ Features
+## Features
 
-- 📆 Convert currencies based on historical dates
+-  Convert currencies based on historical dates
 - 🔄 Real-time conversion using Open Exchange Rates
 - 🔍 Select from a wide range of global currencies
 - 💡 Clean, responsive UI with Tailwind CSS
