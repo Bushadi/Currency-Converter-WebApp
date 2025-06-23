@@ -15,7 +15,7 @@ A full-stack currency converter application built with **React.js** on the front
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ###  Frontend:
 - **React.js** – Component-based UI development
